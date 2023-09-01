@@ -109,3 +109,6 @@ _id	count
 
 Resources
 AskBCS
+https://www.mongodb.com/community/forums/t/how-to-count-documents-in-pymongo/196555
+https://www.geeksforgeeks.org/convert-pymongo-cursor-to-dataframe/
+https://www.mongodb.com/docs/manual/reference/operator/aggregation/convert/#std-label-convert-to-int
